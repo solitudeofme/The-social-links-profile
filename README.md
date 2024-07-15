@@ -1,4 +1,4 @@
-🌐Link: https://the-social-links-profile-f5eokr4mv-solitudeofmes-projects.vercel.app/
+Click [here](https://the-social-links-profile-f5eokr4mv-solitudeofmes-projects.vercel.app/) to see demo
 
 # Frontend Mentor - Social links profile
 
